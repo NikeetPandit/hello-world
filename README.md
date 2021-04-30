@@ -11,4 +11,4 @@ If someone else made changes to main while yr working with yr branch, you could 
 Branches accomplish similar version control goals in GitHub repos as V1.txt V2.txt ect. files 
 - use branches for keeping bug fixes and feature work seperate from main (production) branch... when change is ready it gets merged
 
-
+I am now commiting some changes! The purpose of this commit is see what a commit does and update the readme!
